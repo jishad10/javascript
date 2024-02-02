@@ -1,2 +1,2 @@
 # javascript
-DSA &amp; Algorithm
+Dsa &amp; Algorithm
