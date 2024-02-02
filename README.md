@@ -1,2 +1,2 @@
 # javascript
-Dsa &amp; Algorithm
+Dsa &amp; Algorithm practising purpose
